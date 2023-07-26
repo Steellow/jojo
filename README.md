@@ -1,6 +1,8 @@
-# lily58
+# jojo58
 
 Config files for my keyboard, lily58. Works with [Vial](https://get.vial.today/).
+
+Why jojo58? Because the keyboard is [lily58](https://github.com/kata0510/Lily58) and I have JoJo stickers on the keyboard.
 
 ## Keymap
 
