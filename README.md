@@ -4,6 +4,8 @@ Config files for my keyboard, lily58. Works with [Vial](https://get.vial.today/)
 
 Why jojo58? Because the keyboard is [lily58](https://github.com/kata0510/Lily58) and I have JoJo stickers on the keyboard.
 
+Important: when using with Mac, go to System Settings → Customize Modiier Keys → Select Lily58 → Swap ⌘ and ⌃. This is to make the keyboard as similar as possible on both Windows and Mac.
+
 ## Keymap
 
 You can find the keymap.vil file on the repo. Load it to Vial from File -> Load saved layout...
